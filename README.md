@@ -3,6 +3,7 @@ Team Details
 Name: Vuppuluri Harshita University ID: 2420030531
 Name: Luhitha Boppana University ID: 2420030469
 Name: Cheekoti Manognya University ID: 2420030399
+Name: Avula Adhithya Reddy University ID: 2420030252
 Guide: G.Lavanya
 
 Abstract
