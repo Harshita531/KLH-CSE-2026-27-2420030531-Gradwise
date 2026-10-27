@@ -1,22 +1,16 @@
-GRADWISE:Adaptive AI Learning Assistant for College Students
+# React + Vite
 
-Team Details
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Name: Vuppuluri Harshita University ID: 2420030531
-Name: Luhitha Boppana University ID: 2420030469
-Name: Cheekoti Manognya University ID: 2420030399
-Name: Avula Adhithya Reddy University ID: 2420030252
-Guide: G.Lavanya
+Currently, two official plugins are available:
 
-Abstract
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-The Adaptive AI Learning Assistant is an intelligent learning platform that analyzes students' quiz performance, study time, attendance, and subject-wise progress to identify learning gaps. Using Artificial Intelligence and Machine Learning, the system provides personalized study plans, adaptive quizzes, AI-based explanations, and performance predictions. The platform continuously adapts its recommendations based on individual student progress, helping improve learning efficiency, engagement, and academic performance.
+## React Compiler
 
-Repository Status
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-Current Status: Project Planning & Documentation
+## Expanding the ESLint configuration
 
-Project idea and title finalized
-Abstract completed
-Abstract uploaded to repository
-Development and implementation pending
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
